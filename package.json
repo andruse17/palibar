@@ -1,0 +1,19 @@
+{
+  "name": "cherry",
+  "version": "1.0.0",
+  "description": "Cherry Importadora links",
+  "main": "./js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgranizo/cherry.git"
+  },
+  "author": "Brayan Ñauñay <alexanderbrayan2001_@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexgranizo/cherry/issues"
+  },
+  "homepage": "https://github.com/alexgranizo/cherry#readme"
+}
